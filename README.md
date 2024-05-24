@@ -1,1 +1,0 @@
-# isoc_osm
