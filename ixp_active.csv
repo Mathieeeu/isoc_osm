@@ -1,0 +1,783 @@
+country;city;region;name;prefixes;latitude;longitude;pch;iata
+Switzerland;Zurich;Europe;SwissIX;98444;47.48000;8.53000;Yes;ZRH
+Switzerland;Zurich;Europe;Equinix Zurich;418681;47.48000;8.53000;Yes;ZRH2
+Switzerland;Zurich;Europe;CH Swiss Internet Exchange;321645;47.48000;8.53000;Yes;
+Switzerland;Zurich;Europe;4b42 Internet Exchange Point;222;47.48000;8.53000;Yes;ZRH3
+Switzerland;Zurich;Europe;Securebit Internet Exchange - Switzerland;597;47.48000;8.53000;Yes;ZRH3
+Switzerland;Zurich;Europe;Community-IX.ch;0;47.48000;8.53000;No;ACH2
+Switzerland;Zurich;Europe;FogIXP;886;47.48000;8.53000;Yes;ACH2
+China;Zhuhai;Asia-Pacific;IXPMOE Internet Exchange Point;NULL;22.27945;113.57318;No;
+Tanzania;Zanzibar;Africa;Zanzibar Internet Exchange Point;0;-6.09990;39.10081;No;
+Croatia;Zagreb;Europe;Croatian Internet Exchange;374905;45.82000;16.03000;Yes;ZAG
+Indonesia;Yogyakarta;Asia-Pacific;Universitas Negeri Yogyakarta Internet Exchange Point;NULL;-7.79558;110.36949;No;
+Indonesia;Yogyakarta;Asia-Pacific;CitranetIX Yogyakarta;13321;-7.79558;110.36949;Yes;YIA
+Armenia;Yerevan;Europe;Armenian Internet Traffic Exchange;2018;40.13000;44.47000;Yes;EVN
+Russia;Yaroslavl;Europe;Yaroslavl Internet Exchange;0;57.65238;39.72444;No;
+Cameroon;Yaoundé;Africa;Cameroon Internet Exchange Point - Yaoundé;0;3.87350;11.51642;No;DLA
+Myanmar;Yangon;Asia-Pacific;Myanmar Internet Exchange - Yangon;639;16.90377;96.02942;Yes;RGN
+Germany;Wuppertal;Europe;United Peering;54;51.25620;7.15080;Yes;SGE
+Poland;Wroclaw;Europe;Wroclaw Internet eXchange;0;51.11670;17.03330;No;
+Canada;Winnipeg;North America;Manitoba Internet Exchange;359471;49.88330;-97.15000;Yes;YWG
+Canada;Winnipeg;North America;Winnipeg Internet Exchange;47;49.88330;-97.15000;Yes;YWG
+Namibia;Windhoek;Africa;Windhoek IXP;267;-22.56429;17.08514;Yes;WDH
+Curaçao;Willemstad;Latin America;Caribbean Internet Exchange;0;12.12240;-68.88240;No;
+New Zealand;Wellington;Asia-Pacific;Wellington Internet Exchange;6325;-41.33000;174.80000;Yes;WLG
+Poland;Warsaw;Europe;Equinix IX Warsaw (ex-PLIX);478176;52.23000;21.00000;Yes;WAW
+Poland;Warsaw;Europe;Thinx Poland;0;52.23000;21.00000;No;
+Poland;Warsaw;Europe;TPIX - Internet Exchange;0;52.23000;21.00000;No;
+Poland;Warsaw;Europe;EPIX.Warszawa-KIX;0;52.23000;21.00000;No;
+Poland;Warsaw;Europe;1-IX EU;NULL;52.23000;21.00000;No;
+Russia;Vladivostok;Europe;MSK-IX Vladivostok;457;43.12000;131.89999;No;
+Brazil;Vitória;Latin America;Ponto de Troca de Trafego do Vitória;0;-20.31890;-40.33780;No;
+Lithuania;Vilnius;Europe;Lithuanian Internet service providers exchange unit;0;54.63000;25.28000;No;
+Lithuania;Vilnius;Europe;Lithuania Internet Exchange;245146;54.63000;25.28000;Yes;VNO
+Lithuania;Vilnius;Europe;Baltic Internet Exchange;0;54.63000;25.28000;No;
+Lithuania;Vilnius;Europe;Lithuanian peering center;0;54.63000;25.28000;No;
+Laos;Vientiane;Asia-Pacific;Lao National Internet Center;0;17.95000;102.57000;No;
+Austria;Vienna;Europe;Vienna Internet Exchange;145453;48.20000;16.37000;Yes;VIE
+United States;Vienna;North America;Equinix-VA;0;38.89362;-77.22228;No;
+Austria;Vienna;Europe;Community-IX Vienna;NULL;48.20000;16.37000;No;
+Argentina;Viedma;Latin America;CABASE IXP VIEDMA;0;-40.82502;-63.03516;No;
+Bulgaria;Varna;Europe;Varna Internet Exchange;NULL;43.19400;27.89757;No;
+Canada;Vancouver;North America;Vancouver Internet Exchange;0;49.18000;-123.17000;No;YVR
+Canada;Vancouver;North America;UNMETERED Exchange;0;49.18000;-123.17000;Yes;YVR2
+Canada;Vancouver;North America;CloudSingularity Internet Exchange;NULL;49.18000;-123.17000;Yes;YVR2
+Spain;Valencia;Europe;Neutral Internet Exchange Valencia;0;39.40797;-0.50160;No;
+Sweden;Umeå;Europe;NorrNod;0;63.80000;20.28000;No;
+Sweden;Umeå;Europe;STHIX - Umeå;NULL;63.80000;20.28000;No;
+Russia;Ulyanovsk;Europe;Ulyanovsk Internet Exchange;0;54.32000;48.33000;No;
+Mongolia;Ulaanbaatar;Asia-Pacific;Mangolian Internet Exchange and Mangolian National Data Center;0;47.90882;106.86346;No;
+Mongolia;Ulaanbaatar;Asia-Pacific;MISPA internet exchange point;0;47.90882;106.86346;No;
+Russia;Ufa;Europe;DataIX Ufa;0;54.73880;55.97210;No;
+Italy;Udine;Europe;Friuli Venezia Giulia Internet Exchange;0;46.03000;13.18000;No;
+Tunisia;Tunis;Africa;Tunisian Internet Exchange Point;1464;36.81881;10.16596;Yes;TUN
+Argentina;Tucuman;Latin America;CABASE IXP Tucuman;0;-27.02088;-66.44136;No;
+Peru;Trujillo;Latin America;Peru IX (PIT Peru sac) - Trujillo;NULL;NULL;NULL;No;
+Norway;Trondheim;Europe;Trondheim Internet Exchange;592;63.47000;10.93000;Yes;
+Norway;Tromsø;Europe;Tromsø Internet exchange;0;69.66670;18.93330;No;
+France;Toulouse;Europe;TouIX;0;43.60530;1.44280;No;
+Canada;Toronto;North America;Toronto Internet Exchange;626180;43.67000;-79.40000;Yes;YYZ
+Canada;Toronto;North America;Equinix Toronto;0;43.67000;-79.40000;No;
+Canada;Toronto;North America;Megaport Toronto;382595;43.67000;-79.40000;Yes;YYZ
+Italy;Torino;Europe;Torino Piemonte Exchange Point;369873;45.22000;7.65000;Yes;TRN
+Russia;Tomsk;Europe;Tomsk Internet eXchange;0;56.49969;84.99420;No;
+Japan;Tokyo;Asia-Pacific;JPIX Tokyo;594021;35.55000;139.78000;Yes;NRT
+Japan;Tokyo;Asia-Pacific;JPNAP Tokyo;0;35.55000;139.78000;No;
+Japan;Tokyo;Asia-Pacific;Network Service Provider IXP (Distributed IX in Edo);11226;35.55000;139.78000;Yes;NRT
+Japan;Tokyo;Asia-Pacific;Network Service Provider IXP-6;0;35.55000;139.78000;No;
+Japan;Tokyo;Asia-Pacific;BBIX Tokyo;0;35.55000;139.78000;No;
+Japan;Tokyo;Asia-Pacific;Equinix IBX Tokyo;0;35.55000;139.78000;No;
+Japan;Tokyo;Asia-Pacific;Asia Smart IX [BBIX Asia];NULL;35.55000;139.78000;No;
+Japan;Tokyo;Asia-Pacific;INIXP Asia;NULL;35.55000;139.78000;No;
+Albania;Tirana;Europe;Albanian Neutral Internet eXchange;149156;41.32750;19.81870;Yes;TIA
+Saudi Arabia;Thuwal;Europe;SAIX Saudi Arabia Thuwal;NULL;22.27570;39.11330;No;
+Bhutan;Thimphu;Asia-Pacific;Bhutan Internet Exchange;285;27.48000;89.59000;Yes;PBH
+Greece;Thessaloniki;Europe;GR-IX Thessaloniki;0;40.62125;22.91101;No;
+Greece;Thessaloniki;Europe;Thessaloniki Internet Exchange;NULL;40.62125;22.91101;No;
+Netherlands;The Hague;Europe;LayerSwitch Internet Exchange;NULL;52.07174;4.23983;No;
+Brazil;Teresina;Latin America;Ponto de Troca de Trafego do Teresina;0;-5.18570;-43.06438;No;
+Chile;Temuco;Latin America;PIT Chile Temuco;0;-38.72908;-72.63774;No;
+Israel;Tel Aviv;Europe;Israeli Internet Exchange;49;32.00000;34.90000;Yes;TLV
+Iran;Tehran;Europe;Tehran IX;0;35.71028;51.42357;No;
+Honduras;Tegucigalpa;Latin America;IXP-HN Puntos de Intercambio de Tráfico – Honduras;152;14.07230;-87.19210;Yes;TGU
+Georgia;Tbilisi;Europe;Georgian Internet Exchange Point;0;41.68000;44.95000;No;
+Georgia;Tbilisi;Europe;Internet Exchange Association of Georgia-Tbilisi;NULL;41.68000;44.95000;No;
+Uzbekistan;Tashkent;Asia-Pacific;Uzbekistan Internet Exchange;0;41.26670;69.21670;No;
+Uzbekistan;Tashkent;Asia-Pacific;ITI-IX;NULL;41.26670;69.21670;No;
+Uzbekistan;Tashkent;Asia-Pacific;Science Network Solution IX;325;41.26670;69.21670;Yes;TAS
+Romania;Targoviste;Europe;LNK-IX;0;44.92196;25.41101;No;
+Argentina;Tandil;Latin America;CABASE IXP TANDIL;0;-37.31952;-59.17772;No;
+Finland;Tampere;Europe;TREX Regional Exchanges Oy;13855;61.42000;23.58000;Yes;TMP
+United States;Tampa;North America;Tampa Internet Exchange;257267;27.95000;-82.45000;Yes;TPA
+Estonia;Tallinn;Europe;Tallinn Internet Exchange (TLLIX);0;59.35000;24.80000;No;
+Estonia;Tallinn;Europe;Tallinn Governmental Internet Exchange;369405;59.35000;24.80000;Yes;TLL
+Estonia;Tallinn;Europe;PITER-IX Tallinn;0;59.35000;24.80000;No;
+Estonia;Tallinn;Europe;I Internet Exchange;NULL;59.35000;24.80000;No;
+Taiwan;Taipei;Asia-Pacific;Taipei Internet Exchange (TPIX);304692;25.03000;121.52000;Yes;TPE
+Taiwan;Taipei;Asia-Pacific;Taiwan Internet Exchange;35830;25.03000;121.52000;No;
+Taiwan;Taipei;Asia-Pacific;Taiwan Network Access Point;0;25.03000;121.52000;No;
+Taiwan;Taipei;Asia-Pacific;Poema IX;0;25.03000;121.52000;No;
+Taiwan;Taipei;Asia-Pacific;Student & Technology United Internet Exchanges;NULL;25.03000;121.52000;Yes;TPE2
+Iran;Tabriz;Europe;Tabriz IX;0;38.05774;46.31062;No;
+Australia;Sydney;Asia-Pacific;Equinix Sydney;612394;-33.95000;151.17999;Yes;SYD
+Australia;Sydney;Asia-Pacific;PIPE Networks Sydney;0;-33.95000;151.17999;No;
+Australia;Sydney;Asia-Pacific;IX Australia (Sydney NSW);473729;-33.95000;151.17999;Yes;SYD
+Australia;Sydney;Asia-Pacific;Pacific-IX;0;-33.95000;151.17999;No;
+Australia;Sydney;Asia-Pacific;Megaport IX Sydney;488728;-33.95000;151.17999;Yes;SYD
+Australia;Sydney;Asia-Pacific;EdgeIX Sydney;NULL;-33.95000;151.17999;No;
+Fiji;Suva;Asia-Pacific;Fiji-IXP;NULL;-18.13000;178.42999;No;
+Indonesia;Surakarta;Asia-Pacific;CitranetIX Surakarta;13111;-7.55068;110.82832;Yes;YIA
+Indonesia;Surabaya;Asia-Pacific;IIX Jawa Timur;0;-7.24917;112.75083;No;
+Sweden;Sundsvall;Europe;Netnod Sundsvall;0;62.38000;17.30000;No;
+Sweden;Sundsvall;Europe;STHIX - Sundsvall;NULL;62.38000;17.30000;No;
+Germany;Stuttgart;Europe;Stuttgarter Internet Exchange;16947;48.83000;9.20000;Yes;STR
+Sweden;Stockholm;Europe;Netnod Stockholm;320969;59.33000;18.05000;Yes;ARN
+Sweden;Stockholm;Europe;SOLIX;0;59.33000;18.05000;No;
+Sweden;Stockholm;Europe;Stockholm Internet Exchange;0;59.33000;18.05000;No;
+Sweden;Stockholm;Europe;Equinix Stockholm;0;59.33000;18.05000;No;
+Russia;Stavropol;Europe;MSK-IX Stavropol;0;45.05000;41.96670;No;
+Norway;Stavanger;Europe;Stavanger Internet exchange;0;58.97000;5.71000;No;
+Russia;St. Petersburg;Europe;MSK-IX St. Petersburg;0;59.93000;30.30000;No;
+Russia;St. Petersburg;Europe;DataIX St Petersburg;0;59.93000;30.30000;No;LED
+Russia;St. Petersburg;Europe;PIRIX;0;59.93000;30.30000;No;
+Russia;St. Petersburg;Europe;PITER-IX St. Petersburg;0;59.93000;30.30000;No;
+United States;St. Louis;North America;MidWest-IX - St. Louis;360371;38.58000;-90.20000;Yes;STL
+United States;St. Louis;North America;Saint Louis Internet Exchange;0;38.58000;-90.20000;No;
+Grenada;St. Georges;Latin America;Grenada Internet Exchange;1877;12.05363;-61.74995;Yes;GND
+United States;St. George;North America;Southern Utah Peering Regional Network;1188;37.09650;-113.56840;Yes;SGU
+Bulgaria;Sofia;Europe;Bulgarian Internet eXchange;411040;42.65000;23.38000;Yes;SOF
+Bulgaria;Sofia;Europe;Balkan Internet Exchange;0;42.65000;23.38000;No;
+Bulgaria;Sofia;Europe;NetIX;940683;42.65000;23.38000;Yes;SOF
+Bulgaria;Sofia;Europe;T-CIX;50;42.65000;23.38000;Yes;SOF
+Bulgaria;Sofia;Europe;Megaport MegaIX Sofia;253421;42.65000;23.38000;Yes;SXF
+North Macedonia;Skopje;Europe;IXP.mk;60673;41.99920;21.28481;Yes;SKP
+Singapore;Singapore;Asia-Pacific;Singapore Open Exchange;107022;1.37000;103.98000;Yes;SIN
+Singapore;Singapore;Asia-Pacific;Equinix Singapore IBX;1446467;1.37000;103.98000;Yes;QPG
+Singapore;Singapore;Asia-Pacific;Singapore Internet Exchange;670922;1.37000;103.98000;Yes;QPG
+Singapore;Singapore;Asia-Pacific;BBIX Singapore;0;1.37000;103.98000;No;
+Singapore;Singapore;Asia-Pacific;MegaPort IX Singapore;0;1.37000;103.98000;Yes;QPG
+Singapore;Singapore;Asia-Pacific;DE-CIX ASEAN (Singapore,Malaysia,Brunei);392312;1.37000;103.98000;Yes;JHB
+Singapore;Singapore;Asia-Pacific;AMS-IX Singapore;NULL;1.37000;103.98000;Yes;SIN
+Singapore;Singapore;Asia-Pacific;EDGE INTERNET EXCHANGE;NULL;1.37000;103.98000;No;
+Singapore;Singapore;Asia-Pacific;Internet Exchange 42;NULL;1.37000;103.98000;No;
+Russia;Simferopol;Europe;Crimea Internet Exchange;0;44.95210;34.10240;No;
+Russia;Simferopol;Europe;Media-IX;NULL;44.95210;34.10240;No;
+Iran;Shiraz;Europe;Shiraz IX;0;29.59177;52.58370;No;
+China;Shenzhen;Asia-Pacific;China (Qianhai) Internet Exchange;NULL;22.54288;114.06300;No;
+Gambia;Serekunda;Africa;Serekunda Internet Exchange Point;202;13.44840;-16.68514;Yes;BJL
+South Korea;Seoul;Asia-Pacific;6NGIX;0;37.50000;126.93000;No;
+South Korea;Seoul;Asia-Pacific;LGDACOM Internet Exchange;0;37.50000;126.93000;No;
+South Korea;Seoul;Asia-Pacific;Korea Internet Neutral Exchange KINX;244276;37.50000;126.93000;Yes;ICN
+South Korea;Seoul;Asia-Pacific;Equinix Seoul;NULL;37.50000;126.93000;Yes;ICN2
+South Korea;Seoul;Asia-Pacific;Korea Internet Exchange (SejongTelecom);NULL;37.50000;126.93000;No;
+Kazakhstan;Semey;Europe;KazNIX;1263;50.43330;80.26670;Yes;PLX
+United States;Secaucus;North America;Equinix IBX Secaucus;0;40.79000;-74.06000;No;
+United States;Seattle;North America;Equinix-Seattle;52;47.61000;-122.33000;Yes;SEA
+United States;Seattle;North America;Seattle Internet Exchange;832161;47.61000;-122.33000;Yes;SEA
+United States;Seattle;North America;Megaport IX Seattle;385141;47.61000;-122.33000;Yes;SEA
+Canada;Saskatoon;North America;YXEIX Saskatoon Internet Exchange;413596;52.14246;-106.62720;Yes;YXE
+Bosnia and Herzegovina;Sarajevo;Europe;Bosnia and Herzegovina Neutral Internet Exhacange;209;43.89364;18.24291;Yes;SJJ
+Dominican Republic;Santo Domingo;Latin America;NAP del Caribe;0;18.43000;-69.88000;No;
+Dominican Republic;Santo Domingo;Latin America;Internet Traffic Exchange Point of the Dominican Republic;NULL;18.43000;-69.88000;No;
+Chile;Santiago;Latin America;NAP Chile;0;-33.38000;-70.78000;No;
+Chile;Santiago;Latin America;PIT Chile - Santiago;185604;-33.38000;-70.78000;Yes;SCL
+Brazil;Santa Maria;Latin America;Ponto de Troca de Trafego do Santa Maria;0;-29.71992;-53.84453;No;
+Argentina;Santa Fe;Latin America;CABASE IXP Santa Fe;0;-31.62710;-60.70360;No;
+Bolivia;Santa cruz de la sierra;Latin America;Confiared DC3 IXP;NULL;-17.78337;-63.18226;No;
+Argentina;San Salvador de Jujuy;Latin America;CABASE IXP Jujuy;0;-24.20532;-65.37560;No;
+El Salvador;San Salvador;Latin America;IXP de El Salvador;0;13.69000;-89.19000;No;
+Honduras;San Pedro Sula;Latin America;PIT Honduras;NULL;15.51972;-88.05553;Yes;SAP
+Argentina;San Luis;Latin America;CABASE IXP San Luis;0;-33.90361;-68.37764;No;
+Argentina;San Juan;Latin America;CABASE IXP SAN JUAN;0;-31.53177;-68.56770;No;
+Puerto Rico;San Juan;North America;Puerto Rico Internet Exchange;860;18.47000;-66.11000;Yes;SJU
+United States;San Jose;North America;Equinix IBX San Jose;0;37.33000;-121.88000;Yes;
+United States;San Jose;North America;Coresite - Any 2 Northern California;0;37.33000;-121.88000;No;
+Costa Rica;San Jose;Latin America;Punto de Intercambio Neutro de Internet;4572;9.93504;-84.08300;Yes;SJO
+Costa Rica;San Jose;Latin America;IXP Infocom Costa Rica;NULL;9.93504;-84.08300;No;
+United States;San Francisco;North America;Equinix San Francisco;0;37.78000;-122.43000;No;
+United States;San Francisco;North America;San Francisco Metropolitan Internet Exchange;384153;37.78000;-122.43000;Yes;SFO
+United States;San Francisco;North America;AMS-IX Bay Area;169234;37.78000;-122.43000;Yes;SFO
+United States;San Diego;North America;San Diego Network Access Point;0;32.72000;-117.16000;No;
+Russia;Samara;Europe;MSK-IX Samara;0;53.25000;50.45000;No;
+Austria;Salzburg;Europe;Salzburg Internet eXchange;1848;47.80000;13.00000;Yes;SZG
+Brazil;Salvador;Latin America;Ponto de Troca de Trafego do Salvador;0;-13.02000;-38.52000;No;
+Argentina;Salta;Latin America;CABASE IXP SALTA;0;-24.79607;-65.50067;No;
+United States;Salt Lake City;North America;Salt Lake Internet Exchange;328957;40.77000;-111.90000;Yes;SLC
+France;Saint-Denis;Europe;Réunion Internet Exchange;0;-20.89070;55.45510;No;
+Saint Barthélemy;Saint-Barthelemy;Latin America;Saint Barthelemy Internet Exchange;245;17.90100;-62.82029;Yes;SBH
+Argentina;Saenz Peña;Latin America;CABASE IXP Saenz Peña;0;-34.59915;-58.54120;No;
+United States;Sacramento;North America;Sacramento-IX;NULL;38.58543;-121.49255;No;
+Brazil;São Paulo;Latin America;Equinix São Paulo;0;-23.62000;-46.65000;No;
+Brazil;São Paulo;Latin America;Ponto de Troca de Tráfego Metro São Paulo;0;-23.62000;-46.65000;Yes;GRU
+Brazil;São Luís;Latin America;Ponto de Troca de Trafego do São Luís;0;-2.56046;-44.32816;No;
+Brazil;São José dos Campos;Latin America;Ponto de Troca de Trafego do São José dos Campos;0;-23.18270;-45.88300;No;
+Brazil;São José do Rio Preto;Latin America;Ponto de Troca de Trafego do São José do Rio Preto;0;-20.80810;-49.38110;No;
+Germany;Ruhr;Europe;RUHR-CIX;506;51.51621;6.58278;Yes;FRA
+Netherlands;Rotterdam;Europe;Rotterdam Internet eXchange;88;51.95000;4.45000;Yes;
+Russia;Rostov-on-Don;Europe;MSK-IX Rostov-on-Don;0;47.25000;39.82000;No;
+Dominica;Roseau;Latin America;Dominica National Internet Exchange Point;52;15.30000;-61.40000;Yes;DOM
+Argentina;Rosario;Latin America;CABASE IXP Rosario;26964;-32.95000;-60.65000;Yes;ROS
+Italy;Rome;Europe;Roma Internet Exchange Point;191738;41.90000;12.45000;Yes;FCO
+Italy;Rome;Europe;Hamro Internet Exchange - Rome;NULL;41.90000;12.45000;No;
+British Virgin Islands;Road Town;Latin America;British Virgin Islands Internet Exchange Point;NULL;18.41667;-64.61667;Yes;EIS
+Saudi Arabia;Riyadh;Europe;SAIX Saudi Arabia Riyadh;11737;24.72000;46.72000;Yes;RUH
+Argentina;Rio Gallegos;Latin America;CABASE IXP RIO GALLEGOS;0;-51.62643;-69.34179;No;
+Brazil;Rio de Janeiro;Latin America;Ponto de Troca de Tráfego do Rio de Janeiro;0;-22.90000;-43.17000;No;
+Latvia;Riga;Europe;Santa Monica Internet Local Exchange;327;56.97000;24.05000;Yes;RIX
+Latvia;Riga;Europe;MSK-IX Riga;0;56.97000;24.05000;No;
+Latvia;Riga;Europe;PITER-IX Riga;NULL;56.97000;24.05000;No;
+United States;Richmond;North America;DE-CIX Richmond;353041;37.54070;-77.43600;Yes;RIC
+United States;Richmond;North America;Richmond-IX;NULL;37.54070;-77.43600;No;
+Iceland;Reykjavik;Europe;Reykjavik Internet Exchange;5728;64.12000;-21.90000;Yes;KEF
+United States;Reston;North America;LINX NoVa;390133;38.95669;-77.34210;Yes;IAD
+United States;Reston;North America;Coresite - Any 2 NorthEast;0;38.95669;-77.34210;No;
+Argentina;Resistencia;Latin America;CABASE IXP Resistencia;0;-27.46064;-59.06539;No;
+United States;Reno;North America;Tahoe Internet Exchange;363846;39.46926;-119.76983;Yes;RNO
+France;Rennes;Europe;BreizhIX;NULL;48.11730;-1.67780;No;
+Brazil;Recife;Latin America;Ponto de Troca de Trafego do Recife;0;-8.07000;-34.85000;No;
+Palestine;Ramallah;Europe;State of Palestine Internet Exchange;755;31.90380;35.20340;Yes;ZDM
+Ecuador;Quito;Latin America;NAP AEPROVI Quito;0;-0.15000;-78.48000;No;
+Mexico;Querétaro;Latin America;Querétaro IXP;NULL;1.35210;103.81980;No;
+Mexico;Querétaro;Latin America;PIT MX;NULL;1.35210;103.81980;No;QRO
+Argentina;Puerto Madryn;Latin America;CABASE IXP Puerto Madryn;0;-42.76940;-65.03170;No;
+Trinidad and Tobago;Princes Town;Latin America;TTIX2;0;10.26570;-61.38167;No;
+Cape Verde;Praia;Africa;Associação Cabo Verde Internet Exchange Point;NULL;14.93300;-23.51330;No;
+Czech Republic;Prague;Europe;NIX.CZ - Neutral Internet eXchange for the Czech Republic;0;50.08000;14.43000;No;
+Czech Republic;Prague;Europe;Neutral czFree eXchange;0;50.08000;14.43000;No;
+Czech Republic;Prague;Europe;Peering.cz;519910;50.08000;14.43000;Yes;PRG
+Poland;Poznan;Europe;Poznan Internet Exchange;0;52.42000;16.83000;No;
+Argentina;Posadas;Latin America;CABASE IXP Posadas;26856;-27.36708;-55.89608;Yes;PSS
+Brazil;Porto Alegre;Latin America;Ponto de Troca de Trafego do Porto Alegre;0;-30.00000;-51.18000;No;
+Portugal;Porto;Europe;Gigabit Portuguese Internet Exchange Point Porto;0;41.16210;-8.62200;No;
+United States;Portland,OR;North America;Northwest Access Exchange;390114;45.52000;-122.68000;Yes;PDX
+United States;Portland,ME;North America;Northern New England Neutral Internet Exchange;363607;43.68003;-70.31043;Yes;BGR
+Vanuatu;Port Vila;Asia-Pacific;Vanuatu Internet Exchange;70;-17.75000;168.32000;Yes;VLI
+Papua New Guinea;Port Moresby;Asia-Pacific;PNG-IXP-POM;0;-9.51360;147.21880;No;
+Nigeria;Port Harcourt;Africa;Internet Exchange Point of Nigeria - Port Harcourt;0;4.82416;6.96351;No;
+Haiti;Port au Prince;Latin America;AHTIC Internet Exchange Point;139;18.57000;-72.30000;Yes;PAP
+Brazil;Ponta Grossa;Latin America;UEPG Internet Exchange;3269;-25.13869;-50.22905;Yes;PGZ
+Italy;Pomezia;Europe;Southern Italy Internet Exchange;NULL;NULL;NULL;No;
+Montenegro;Podgorica;Europe;Montenegro Internet eXchange Point;0;42.37000;19.25000;No;
+Peru;Piura;Latin America;Peru IX (PIT Peru sac) - Piura;NULL;NULL;NULL;No;
+United States;Pittsburgh;North America;Three Rivers Optical Exchange;0;40.45000;-79.95000;No;
+United States;Pittsburgh;North America;Pittsburgh Internet Exchange;0;40.45000;-79.95000;No;
+Argentina;Pilar;Latin America;CABASE IXP Norte de Gran Buenos Aires;0;-34.49344;-58.98695;No;
+Italy;Piacenza;Europe;Piacenza Internet Exchange;NULL;45.05260;9.69300;No;
+United States;Phoenix;North America;Digital Realty Phoenix Internet Exchange;175670;33.45070;-112.06840;Yes;PHX
+United States;Phoenix;North America;Phoenix-IX;177195;33.45070;-112.06840;Yes;PHX
+United States;Phoenix;North America;48 IX;NULL;33.45070;-112.06840;No;
+Cambodia;Phnom Penh;Asia-Pacific;Cambodian Network Exchange;629307;11.55000;104.85000;Yes;PNH
+Sint Maarten;Philipsburg;Latin America;Open Caribbean Internet eXchange;0;18.02600;-63.04582;No;
+United States;Philadelphia;North America;Philadelphia Internet Exchange;0;40.11691;-75.01428;No;
+Australia;Perth;Asia-Pacific;IX Australia (Perth WA);433640;-31.93000;115.95000;Yes;PER
+Australia;Perth;Asia-Pacific;Megaport IX Perth;394675;-31.93000;115.95000;Yes;SYD
+Australia;Perth;Asia-Pacific;EdgeIX Perth;NULL;-31.93000;115.95000;No;
+Australia;Perth;Asia-Pacific;Equinix Perth;NULL;-31.93000;115.95000;No;
+Russia;Perm;Europe;Perm traffic exchange point;NULL;58.01872;56.21914;No;
+Argentina;Pergamino;Latin America;CABASE IXP Pergamino;0;-33.89357;-60.60045;No;
+France;Pau;Europe;BéarnIX;NULL;43.32194;-0.37848;No;
+Ecuador;Pasaje;Latin America;IXP-APROSVA Pasaje;0;-3.32664;-79.84297;No;
+France;Paris;Europe;Service for French Internet Exchange;10102;48.80000;2.33000;No;CDG
+France;Paris;Europe;French National Internet Exchange IPv6;0;48.80000;2.33000;No;
+France;Paris;Europe;Equinix Paris;86;48.80000;2.33000;Yes;
+France;Paris;Europe;France-IX;236871;48.80000;2.33000;Yes;CDG
+France;Paris;Europe;FR-IX 75;0;48.80000;2.33000;No;
+Suriname;Paramaribo;Latin America;Suriname Internet Exchange;300;5.82000;-55.18000;Yes;PBM
+Panama;Panama City;Latin America;Intered Panamá;3679;8.97000;-79.53000;Yes;PTY
+United States;Palo Alto;North America;Equinix Palo Alto;1555956;37.44000;-122.15000;Yes;PAO
+New Zealand;Palmerston North;Asia-Pacific;Palmerston North Internet Exchange;10;-40.32000;175.60001;No;
+Italy;Palermo;Europe;DE-CIX Palermo;0;38.18000;13.10000;No;
+United States;Paducah;North America;Paducah Internet Exchange;NULL;37.06268;-88.72103;No;
+Italy;Padova;Europe;VSIX NAP del Nord Est;0;45.40000;11.85000;No;
+Finland;Oulu;Europe;Finnish Communication and Internet Exchange Oulu;0;65.05000;25.46670;No;
+Burkina Faso;Ouagadougou;Africa;BFIX Ouagadougou;1331;12.37140;-1.51970;Yes;OUA
+Canada;Ottawa;North America;Ottawa-Gatineau Internet Exchange;363563;45.40000;-75.72000;Yes;YOW2
+Chile;Osorno;Latin America;PIT Chile Osorno;0;-40.57370;-73.16915;No;
+Norway;Oslo;Europe;Norwegian Internet Exchange Oslo 1;184124;59.95000;10.70000;Yes;TRD
+Norway;Oslo;Europe;Free Internet eXchange Oslo;0;59.95000;10.70000;No;
+Norway;Oslo;Europe;Norwegian Internet Exchange Oslo 2;628;59.95000;10.70000;Yes;OSL
+Japan;Osaka;Asia-Pacific;JPIX Osaka;0;34.53000;135.50000;No;
+Japan;Osaka;Asia-Pacific;JPNAP Osaka;0;34.53000;135.50000;No;
+Japan;Osaka;Asia-Pacific;BBIX Osaka;0;34.53000;135.50000;No;
+Japan;Osaka;Asia-Pacific;Equinix Osaka;NULL;34.53000;135.50000;No;
+United States;Orlando;North America;Central Florida IX;0;28.54151;-81.37414;No;
+Russia;Omsk;Europe;Omsk Internet exchange;0;54.98850;73.32420;No;
+United States;Omaha;North America;OmahaIX;0;41.25240;-95.99800;No;
+United States;Oklahoma;North America;Internet Exchange Oklahoma City;NULL;35.22597;-103.20823;No;
+United States;Ohio;North America;Ohio IX;301727;40.34172;-84.91247;Yes;CMH
+United States;Ohio;North America;North East Ohio Internet Exchange;294;40.34172;-84.91247;Yes;CAK
+Ukraine;Odessa;Europe;Odessa Internet Exchange;0;46.43000;30.77000;No;
+Germany;Nuremberg;Europe;Nürnberger Internet Exchange;8942;49.50000;11.08000;No;
+Russia;Novosibirsk;Europe;MSK-IX Novosibirsk;0;55.03000;82.90000;No;
+Russia;Novosibirsk;Europe;DataIX Novosibirsk;0;55.03000;82.90000;No;
+Russia;Novokuznetsk;Europe;TN-IX.net;NULL;53.75960;87.12160;No;
+United States;North Kansas City;North America;Great Plains Connect;NULL;39.14290;-94.57300;No;
+Bangladesh;Noakhali;Asia-Pacific;Noakhali Internet Exchange;NULL;22.82518;91.08219;No;
+Russia;Nizhny Novgorod;Europe;Nizhny Novgorod Internet Exchange;NULL;56.32690;44.00590;No;
+Japan;Niigata;Asia-Pacific;Echigo-IX;0;37.92000;139.05000;No;
+United Kingdom;Newcastle;Europe;Newcastle Internet Exchange;NULL;54.99943;-1.75717;No;
+United States;New York;North America;Equinix New York IBX;0;40.75000;-74.00000;No;LGA
+United States;New York;North America;New York International Internet Exchange;86;40.75000;-74.00000;Yes;LGA
+United States;New York;North America;Big Apple Peering Exchange;0;40.75000;-74.00000;No;
+United States;New York;North America;Equinix-NY(former Paix);472485;40.75000;-74.00000;Yes;
+United States;New York;North America;Peer 1 Internet Exchange;0;40.75000;-74.00000;No;
+United States;New York;North America;Digital Realty New York Internet Exchange;192982;40.75000;-74.00000;Yes;LGA
+United States;New York;North America;Coresite - Any 2;0;40.75000;-74.00000;Yes;EWR
+United States;New York;North America;DE-CIX New York;660249;40.75000;-74.00000;Yes;LGA
+United States;New Jersey;North America;MAGPI Gigapop;0;40.72000;-74.17000;No;
+India;New Delhi;Asia-Pacific;National Internet Exchange of India - New Delhi;70383;28.58000;77.20000;Yes;DEL
+India;New Delhi;Asia-Pacific;Extreme IX New Delhi;23156;28.58000;77.20000;Yes;DEL
+India;New Delhi;Asia-Pacific;ANI Peering Exchange;0;28.58000;77.20000;No;
+India;New Delhi;Asia-Pacific;DE-CIX Delhi;0;28.58000;77.20000;No;
+Argentina;Neuquén;Latin America;CABASE IXP Neuquén;22113;-38.93330;-68.13330;Yes;NQN
+Chad;N'Djamena;Africa;N'Djamena Internet Exchange Point;212;12.12038;14.98742;Yes;NDJ
+Brazil;Natal;Latin America;Ponto de Troca de Trafego do Natal;0;-5.76670;-35.20000;No;
+France;Nantes;Europe;Ouest IX;0;47.21840;-1.55360;No;
+Kenya;Nairobi;Africa;Kenya Internet Exchange Point;390989;-1.32000;36.82000;Yes;NBO
+Tanzania;Mwanza;Africa;Mwanza Internet Exchange Point;0;-2.52600;32.90000;No;
+Oman;Muscat;Europe;Equinix Internet Exchange Muscat;NULL;23.58000;58.28000;No;
+Germany;Munich;Europe;Megaport Munich IX;395815;48.13000;11.70000;Yes;MUC
+Germany;Munich;Europe;DE-CIX Munich;417460;48.13000;11.70000;Yes;
+India;Mumbai;Asia-Pacific;National Internet Exchange of India - Mumbai;22385;19.00000;72.80000;Yes;BOM2
+India;Mumbai;Asia-Pacific;DE-CIX Mumbai;69086;19.00000;72.80000;Yes;BOM
+India;Mumbai;Asia-Pacific;AMS-IX India;0;19.00000;72.80000;No;
+India;Mumbai;Asia-Pacific;Extreme IX Mumbai;89140;19.00000;72.80000;Yes;BOM2
+India;Mumbai;Asia-Pacific;Equinix Mumbai;NULL;19.00000;72.80000;Yes;BOM2
+Russia;Moscow;Europe;MSK-IX Moscow;0;55.75000;37.60000;No;
+Russia;Moscow;Europe;DataIX Moscow;0;55.75000;37.60000;No;
+Russia;Moscow;Europe;SVAO-IX;0;55.75000;37.60000;No;
+Russia;Moscow;Europe;DataLine-IX;0;55.75000;37.60000;No;
+Russia;Moscow;Europe;W-IX;0;55.75000;37.60000;No;
+Russia;Moscow;Europe;PITER-IX Moscow;0;55.75000;37.60000;No;
+Russia;Moscow;Europe;Eurasia Peering Moscow;NULL;55.75000;37.60000;No;
+Canada;Montreal;North America;Quebec Internet Exchange;822873;45.47000;-73.75000;Yes;YUL
+United States;Montgomery;North America;Montgomery Internet Exchange;156911;32.34401;-86.38612;Yes;MGM
+Liberia;Monrovia;Africa;Liberia Internet Exchange Point;63;6.31617;-10.80272;Yes;ROB
+Canada;Moncton;North America;Moncton Internet Exchange;363985;46.11323;-64.87064;Yes;YQM
+Kenya;Mombasa;Africa;Mombasa Internet Exchange Point;525078;-4.05000;39.66670;Yes;MBA
+Kenya;Mombasa;Africa;Asteroid Mombasa;255386;-4.05000;39.66670;Yes;MBA2
+Somalia;Mogadishu;Africa;Somali Internet Exchange Point;50;2.02051;45.30546;Yes;MGQ
+Belarus;Minsk;Europe;Belarus National Internet Exchange Point;0;53.88401;27.45489;No;
+United States;Minneapolis;North America;Midwest Internet Cooperative Exchange;552558;44.98550;-93.27190;Yes;MSP
+United States;Milwaukee;North America;Milwaukee Internet Exchange;1552;43.03890;-87.90650;Yes;MKE
+Italy;Milan;Europe;Milan Internet Exchange;0;45.45000;9.17000;No;
+Italy;Milan;Europe;Milan Neutral Access Point;0;45.45000;9.17000;No;
+Italy;Milan;Europe;Equinix Milan;0;45.45000;9.17000;No;
+United States;Miami;North America;NAP of the Americas;619952;25.83000;-80.29000;No;
+United States;Miami;North America;Equinix-Miami;668430;25.83000;-80.29000;Yes;MIA
+United States;Miami;North America;Coresite - Any 2;0;25.83000;-80.29000;No;
+United States;Miami;North America;Florida Internet Exchange / Community IX - Florida;0;25.83000;-80.29000;No;
+United States;Miami;North America;FL-IX - The Florida Internet Exchange / Community IX - Florida;501816;25.83000;-80.29000;Yes;MIA
+Mexico;Merida;Latin America;Internet Exchange Services Yucatan;NULL;21.00829;-89.58268;No;
+Netherlands;Meppel;Europe;Local Internet Exchange Netherlands;NULL;52.71164;6.12895;No;
+Argentina;Mendoza;Latin America;CABASE IXP Mendoza;0;-32.89050;-68.84200;No;
+Australia;Melbourne;Asia-Pacific;AUSIX;0;-37.82000;144.97000;No;
+Australia;Melbourne;Asia-Pacific;IX Australia (Melbourne VIC);0;-37.82000;144.97000;No;
+Australia;Melbourne;Asia-Pacific;PIPE Networks Melbourne;0;-37.82000;144.97000;No;
+Australia;Melbourne;Asia-Pacific;Megaport IX Melbourne;443078;-37.82000;144.97000;Yes;SYD
+Australia;Melbourne;Asia-Pacific;Equinix Melbourne;0;-37.82000;144.97000;No;
+Australia;Melbourne;Asia-Pacific;EdgeIX Melbourne;NULL;-37.82000;144.97000;No;
+United States;Medford;North America;Southern Oregon Access Exchange;0;42.33190;-122.86190;No;
+United States;Medford;North America;Southern Oregon Access Exchange;0;42.33190;-122.86190;No;
+Colombia;Medellin;Latin America;PIT Colombia - Medellin;NULL;6.17138;-75.42821;No;
+United States;McAllen;North America;MEX-IX McAllen;0;26.17580;-98.23860;No;
+Lesotho;Maseru;Africa;Lesotho Internet Exchange Point;0;-29.32630;27.50110;No;
+France;Marseille;Europe;France-IX Marseille;644599;43.45000;5.23000;Yes;MRS
+France;Marseille;Europe;DE-CIX Marseille;521797;43.45000;5.23000;Yes;MRS
+Ukraine;Mariupol;Europe;Meshroom IXP;NULL;47.12269;37.51175;No;
+Brazil;Maringá;Latin America;Ponto de Troca de Trafego do Maringa;0;-23.42100;-51.93310;No;
+Argentina;Mar del Plata;Latin America;CABASE IXP Mar del Plata;4;-37.93000;-57.58000;Yes;MDQ
+Mozambique;Maputo;Africa;Mozambique Internet Exchange;5384;-25.92000;32.57000;Yes;MPM
+Ecuador;Manta;Latin America;IXP Ecuador - Manta;NULL;-0.96770;-80.70890;No;
+Philippines;Manila;Asia-Pacific;Philippine Open Internet Exchange;725560;14.58000;120.95000;Yes;MNL
+Philippines;Manila;Asia-Pacific;GetaFIX- Manila;44360;14.58000;120.95000;Yes;MNL2
+Philippines;Manila;Asia-Pacific;Maharlika Internet Exchange;NULL;14.58000;120.95000;No;
+Guam;Mangilao;Asia-Pacific;Mariana Islands Internet Exchange;0;13.46400;144.79733;No;
+Myanmar;Mandalay;Asia-Pacific;Myanmar Internet Exchange - Mandalay;186;21.95883;96.08910;Yes;
+United Kingdom;Manchester;Europe;LINX Manchester;3497;53.35000;-2.27000;Yes;MAN
+United Kingdom;Manchester;Europe;Equinix Manchester;0;53.35000;-2.27000;No;
+Brazil;Manaus;Latin America;Ponto de Troca de Trafego do Manaus;0;-3.12920;-60.02140;No;
+Bahrain;Manama;Europe;Manama-IX;0;26.27000;50.65000;Yes;BAH2
+Sweden;Malmö;Europe;Internet exchange point of the Oresund Region;0;55.57000;13.07000;No;
+Maldives;Male;Asia-Pacific;Maldives Internet Exchange;421;4.20000;73.53000;Yes;MLE
+Spain;Madrid;Europe;Punto Neutro Español de Internet;283203;40.43000;-3.70000;Yes;MAD
+Spain;Madrid;Europe;Terremark NAP de las Americas - Madrid;0;40.43000;-3.70000;No;
+Spain;Madrid;Europe;DE-CIX Madrid;518310;40.43000;-3.70000;Yes;MAD
+Spain;Madrid;Europe;Equinix Madrid;0;40.43000;-3.70000;No;
+United States;Madison;North America;Madison Internet Exchange;0;43.12000;-89.52000;No;
+Brazil;Maceió;Latin America;Ponto de Troca de Trafego do Maceió;0;-9.59309;-35.82677;No;
+Germany;Münster;Europe;Münster Internet Exchange;0;51.95000;7.48401;No;
+France;Lyon;Europe;Lyon Internet Exchange;31926;45.72000;4.95000;Yes;LYS
+Ukraine;Lviv;Europe;Lviv Internet Exchange;NULL;49.85754;24.04498;No;
+Luxembourg;Luxembourg;Europe;Luxembourg Commercial Internet Exchange;384527;49.62000;6.22000;Yes;LUX
+Zambia;Lusaka;Africa;Lusaka IXP;NULL;-15.41639;28.28428;Yes;LUN
+Sweden;Luleå;Europe;Netnod Luleå;0;65.58000;22.15000;No;
+Democratic Republic of Congo;Lubumbashi;Africa;Lubumbashi Internet Exchange;254;-11.67533;27.43215;Yes;FBM
+Angola;Luanda;Africa;AngolaIXP -- Angola Internet Exchange Point;676;-8.85000;13.23000;Yes;NDD
+Angola;Luanda;Africa;ANGONIX;26391;-8.85000;13.23000;Yes;LAD
+United States;Los Angeles;North America;Los Angeles International Internet Exchange;117076;33.97000;-118.25000;Yes;
+United States;Los Angeles;North America;Any2 California;939179;33.97000;-118.25000;Yes;SNA
+United States;Los Angeles;North America;Equinix Los Angeles IBX;655728;33.97000;-118.25000;Yes;BUR
+United States;Los Angeles;North America;CENIC International Internet eXchange;0;33.97000;-118.25000;No;
+United States;Los Angeles;North America;Megaport IX Los Angeles;156823;33.97000;-118.25000;Yes;BUR
+Brazil;Londrina;Latin America;Ponto de Troca de Trafego do Londrina;0;-23.33000;-51.13000;No;
+United Kingdom;London;Europe;London Internet Exchange;757539;51.48000;-0.45000;Yes;LHR
+United Kingdom;London;Europe;London Network Access Point;89149;51.48000;-0.45000;Yes;LHR
+United Kingdom;London;Europe;XchangePoint London IPP;0;51.48000;-0.45000;No;
+United Kingdom;London;Europe;Equinix London;0;51.48000;-0.45000;No;
+United Kingdom;London;Europe;Securebit Internet Exchange - United Kingdom;NULL;51.48000;-0.45000;No;
+Togo;Lome;Africa;Togo Internet Exchange Point;334;6.17000;1.25000;Yes;LFW
+Poland;Lodz;Europe;Lodz Internet Exchange;0;51.75920;19.45600;No;
+Slovenia;Ljubljana;Europe;Slovenian Internet Exchange;0;46.22000;14.48000;No;
+United Kingdom;Liverpool;Europe;IX Liverpool;0;53.42003;-3.05093;No;
+Portugal;Lisbon;Europe;Gigabit Portuguese Internet Exchange Point;390414;38.73000;-9.15000;Yes;LIS
+Portugal;Lisbon;Europe;Equinix Lisbon;0;38.73000;-9.15000;No;
+Portugal;Lisbon;Europe;DE-CIX Lisbon;404152;38.73000;-9.15000;Yes;MAD
+Peru;Lima;Latin America;Peru IX (PIT Peru sac) - Lima;7755;-12.00000;-77.12000;Yes;LIM
+Peru;Lima;Latin America;Jumbo Internet Exchange - Lima;NULL;-12.00000;-77.12000;No;
+France;Lille;Europe;Lillix;0;50.62920;3.05730;No;
+Gabon;Libreville;Africa;Gabon Internet Exchange;165;0.41620;9.46730;Yes;LBV
+Cyprus;Lefkosia;Europe;Cyprus Internet Exchange;0;35.17000;33.37000;No;
+Netherlands;Leeuwarden;Europe;Friese Internet Exchange;0;53.22000;5.57000;No;
+United Kingdom;Leeds;Europe;Leeds Internet Exchange;248035;53.80000;-1.55000;Yes;LBA
+Switzerland;Lausanne;Europe;RomandIX;24535;46.52839;6.51241;Yes;QLS
+United States;Las Vegas;North America;Megaport Las Vegas;0;35.99463;-115.11897;No;
+United States;Las Vegas;North America;Vegas-IX;NULL;35.99463;-115.11897;No;
+Nepal;Lalitpur;Asia-Pacific;Nepal Internet Exchange - Jawalakhel;NULL;27.66440;85.31879;No;
+Brazil;Lajeado;Latin America;Ponto de Troca de Trafego do Lajeado;0;-29.45960;-51.96490;No;
+Pakistan;Lahore;Asia-Pacific;Pakistan Internet Exchange Point - Lahore;0;31.52000;74.40000;No;
+Nigeria;Lagos;Africa;Internet Exchange Point of Nigeria - Lagos;381419;6.55000;3.35000;Yes;LOS
+Nigeria;Lagos;Africa;AMS-IX Lagos;0;6.55000;3.35000;Yes;LOS2
+Argentina;La Plata;Latin America;CABASE IXP La Plata;0;-34.92920;-57.96000;No;
+Bolivia;La Paz;Latin America;IXP MegaLink;228;-16.50000;-68.15000;Yes;LPB
+Bolivia;La Paz;Latin America;Punto de Intercambio de Trafico de Bolivia;2393;-16.50000;-68.15000;Yes;LPB2
+Ukraine;Kyiv;Europe;Ukrainian Internet Exchange;43962;50.51482;30.52102;No;
+Ukraine;Kyiv;Europe;Digital Telecom Internet Exchange;0;50.51482;30.52102;No;
+Ukraine;Kyiv;Europe;Giganet Internet Exchange;566077;50.51482;30.52102;Yes;KBP
+Ukraine;Kyiv;Europe;PITER-IX Kiev;NULL;50.51482;30.52102;No;
+Ukraine;Kyiv;Europe;1-IX UA;NULL;50.51482;30.52102;No;
+Kuwait;Kuwait City;Europe;Kuwait Internet Exchange;7081;29.22000;47.98000;Yes;KWI
+Georgia;Kutaisi;Europe;Internet Exchange Association of Georgia-Kutaisi;NULL;42.27180;42.70600;No;
+Malaysia;Kuching;Asia-Pacific;Irix;NULL;1.55340;110.35950;No;
+Malaysia;Kuala Lumpur;Asia-Pacific;Malaysia Internet Exchange;522858;3.13000;101.70000;Yes;KUL
+Malaysia;Kuala Lumpur;Asia-Pacific;Thai-IX Malaysia by CS Loxinfo;NULL;3.13000;101.70000;No;
+Malaysia;Kuala Lumpur;Asia-Pacific;DE-CIX Kuala Lumpur;355532;3.13000;101.70000;Yes;KUL2
+Malaysia;Kuala Lumpur;Asia-Pacific;DE-CIX Malaysia;NULL;3.13000;101.70000;Yes;JHB
+Ukraine;Kremenchuk;Europe;kremen-IX;NULL;49.11606;33.44468;No;
+Russia;Krasnoyarsk;Europe;Krasnoyarsk Internet Exchange;0;56.17000;92.50000;No;
+Russia;Krasnoyarsk;Europe;Sibir-IX;0;56.17000;92.50000;No;
+Russia;Krasnodar;Europe;Sea-IX Internet exchange;0;45.03930;38.98720;No;
+Poland;Kraków;Europe;Cracow Internet Exchange;0;50.08000;19.80000;No;
+India;Kolkata;Asia-Pacific;National Internet Exchange of India - Kolkata;0;22.57000;88.40000;No;
+India;Kolkata;Asia-Pacific;Kolkata IX;65;22.57000;88.40000;Yes;CCU
+India;Kolkata;Asia-Pacific;Extreme IX Kolkata;0;22.57000;88.40000;No;
+India;Kolkata;Asia-Pacific;DE-CIX Kolkata;0;22.57000;88.40000;No;
+Slovakia;Košice;Europe;Slovak Internet Exchange Košice;0;48.71670;21.25000;No;
+Austria;Klagenfurt;Europe;Alpes Adria Internet Exchange;2873;46.65000;14.33000;Yes;KLU
+Democratic Republic of Congo;Kinshasa;Africa;Kinshasa Internet Exchange;869;-4.38000;15.43000;Yes;FIH
+Saint Vincent and the Grenadines;Kingstown;Latin America;SVGIX;0;13.16023;-61.22458;No;
+Jamaica;Kingston;Latin America;Jamaica Internet Exchange Point;317;17.93000;-76.78000;Yes;KIN
+Rwanda;Kigali;Africa;Rwanda Internet exchange;1831;-1.97000;30.12000;Yes;KGL
+Ukraine;Khmelnytsky;Europe;Khmelnytsky Internet exchange point;0;49.42300;26.98710;No;
+Ukraine;Kherson;Europe;Kherson Internet Exchange;0;46.63000;32.57000;No;
+Sudan;Khartoum;Africa;Sudan Internet Exchange Point;353;15.60214;32.58693;Yes;KRT
+Russia;Khabarovsk;Europe;DataIX Khabarovsk;0;48.50270;135.06630;No;
+Russia;Kazan;Europe;MSK-IX Kazan;0;55.81749;49.10889;No;
+Poland;Katowice;Europe;EPIX.Katowice;0;50.23000;19.03000;No;
+Nepal;Kathmandu;Asia-Pacific;Nepal Internet Exchange - Putalisadak;906;27.70000;85.37000;Yes;KTM
+Germany;Karlsruhe;Europe;Baden-Württemberg Internet Exchange;NULL;49.00689;8.40365;No;
+Pakistan;Karachi;Asia-Pacific;Pakistan Internet Exchange Point - Karachi;0;24.90000;67.13000;No;
+United States;Kansas City;North America;Kansas City Internet Exchange;324148;39.10000;-94.58000;Yes;MCI
+Uganda;Kampala;Africa;Uganda Internet Exchange;18239;0.32000;32.62000;Yes;KLA
+Afghanistan;Kabul;Asia-Pacific;National Internet Exchange of Afghanistan;428;34.55395;68.91754;Yes;KBL
+Argentina;Junin;Latin America;CABASE IXP Junin;0;-34.59076;-60.99045;No;
+Malaysia;Johor Bahru;Asia-Pacific;DE-CIX Johor Bahru;NULL;1.54485;103.63959;Yes;JHB
+South Africa;Johannesburg;Africa;Johannesburg Internet Exchange;392668;-26.13000;28.23000;Yes;HLA
+South Africa;Johannesburg;Africa;NAPAfrica Johannesburg;457040;-26.13000;28.23000;Yes;JNB
+Brazil;João Pessoa;Latin America;Ponto de Troca de Trafego do João Pessoa;0;-7.14643;-34.95164;No;
+Saudi Arabia;Jeddah;Europe;JEDIX by Linx;0;21.67000;39.15000;No;
+Indonesia;Jakarta;Asia-Pacific;Indonesian Internet Exchange;31888;-6.17444;106.82944;Yes;JKT
+Indonesia;Jakarta;Asia-Pacific;Jakarta Internet Exchange;0;-6.17444;106.82944;No;
+Indonesia;Jakarta;Asia-Pacific;Biznet Internet Exchange;0;-6.17444;106.82944;No;
+Indonesia;Jakarta;Asia-Pacific;Matrix Cable System Internet Exchange;469413;-6.17444;106.82944;Yes;JKT
+Indonesia;Jakarta;Asia-Pacific;NEX Internet Exchange;0;-6.17444;106.82944;No;
+Indonesia;Jakarta;Asia-Pacific;OpenIXP Internet exchange Point;12;-6.17444;106.82944;Yes;PCB
+Indonesia;Jakarta;Asia-Pacific;Cyber 2 Internet Exchange;NULL;-6.17444;106.82944;No;
+Indonesia;Jakarta;Asia-Pacific;Batam Internet Exchange - Jakarta;NULL;-6.17444;106.82944;No;
+Indonesia;Jakarta;Asia-Pacific;Digital Edge EPIX Jakarta;NULL;-6.17444;106.82944;No;
+United States;Jacksonville;North America;Jacksonville Internet Exchange;149292;30.33218;-81.65565;Yes;JAX
+Turkey;Istanbul;Europe;Istanbul Internet Exchange;28;40.97000;28.82000;No;SAW
+Turkey;Istanbul;Europe;DE-CIX Istanbul;535736;40.97000;28.82000;Yes;IST
+Turkey;Istanbul;Europe;TURKISH Internet eXchange;NULL;40.97000;28.82000;No;
+Pakistan;Islamabad;Asia-Pacific;Pakistan Internet Exchange Point - Islamabad;0;33.66911;72.91477;No;
+Austria;Innsbruck;Europe;Tirol-IX;0;47.26286;11.40090;No;
+United States;Indianapolis;North America;Midwest-IX - Indianapolis;146149;39.77511;-86.10947;Yes;ORD
+India;Hyderabad;Asia-Pacific;National Internet Exchange of India - Hyderabad;22450;17.45000;78.47000;Yes;
+India;Hyderabad;Asia-Pacific;Extreme IX Hyderabad;0;17.45000;78.47000;No;
+United States;Houston;North America;Southeast Texas GigaPOP;0;29.75000;-95.35000;No;
+United States;Houston;North America;Houston-IX;NULL;29.75000;-95.35000;No;
+United States;Houston;North America;Texas-IX;NULL;29.75000;-95.35000;No;
+United States;Honolulu;North America;Hawaii Internet Exchange;1695;21.30000;-157.83000;No;
+United States;Honolulu;North America;DRFxchange;0;21.30000;-157.83000;No;
+United States;Honolulu;North America;Aloha-IX;NULL;21.30000;-157.83000;No;
+China;Hong Kong;Asia-Pacific;Hong Kong Internet Exchange;788154;22.33000;114.18000;Yes;HKG
+China;Hong Kong;Asia-Pacific;Equinix Hong Kong;577587;22.33000;114.18000;Yes;HKG2
+China;Hong Kong;Asia-Pacific;AMS-IX Hong Kong;0;22.33000;114.18000;Yes;HKG2
+China;Hong Kong;Asia-Pacific;BBIX Hong Kong;0;22.33000;114.18000;Yes;HKG2
+China;Hong Kong;Asia-Pacific;Megaport Hong Kong;0;22.33000;114.18000;No;
+China;Hong Kong;Asia-Pacific;iAdvantage Internet Exchange;NULL;22.33000;114.18000;No;
+Australia;Hobart;Asia-Pacific;Tasmanian Internet Exchange;0;-42.83000;147.48000;No;
+Australia;Hobart;Asia-Pacific;PIPE Networks Hobart;0;-42.83000;147.48000;No;
+Australia;Hobart;Asia-Pacific;EdgeIX - Hobart;NULL;-42.83000;147.48000;No;
+Viet Nam;Ho Chi Minh City;Asia-Pacific;Viet Nam National Internet Exchange;0;10.75000;106.67000;No;
+Finland;Helsinki;Europe;Finnish Communication and Internet Exchange Helsinki;0;60.17000;25.00000;No;
+Finland;Helsinki;Europe;Equinix Helsinki;NULL;60.17000;25.00000;No;
+Finland;Helsinki;Europe;PITER-IX Helsinki;NULL;60.17000;25.00000;No;
+Cuba;Havana;Latin America;NAP de Cuba;0;23.05105;-82.61291;No;
+Zimbabwe;Harare;Africa;Harare Internet Exchange;274;-17.83000;31.02000;Yes;HRE
+Viet Nam;Hanoi;Asia-Pacific;Vietnam National Internet Exchange;0;21.03000;105.85000;No;
+China;Hangzhou;Asia-Pacific;National (Hangzhou) Novel Internet Exchange Point;NULL;30.23000;120.17000;No;
+New Zealand;Hamilton;Asia-Pacific;Hamilton Internet Exchange;0;-37.76692;175.28687;No;
+Germany;Hamburg;Europe;DE-CIX Hamburg;421596;53.55000;10.03000;Yes;HAM
+Germany;Hamburg;Europe;Megaport Hamburg IX;399867;53.55000;10.03000;Yes;HAM
+Canada;Halifax;North America;Halifax Internet Exchange;512282;44.67000;-63.61000;Yes;YHZ
+India;Guwahati;Asia-Pacific;National Internet Exchange of India - Guwahati;0;26.14329;91.56280;No;
+Ecuador;Guayaquil;Latin America;NAP AEPROVI Guayaquil;0;-2.15000;-79.88000;No;
+Ecuador;Guayaquil;Latin America;IXP Ecuador;784;-2.15000;-79.88000;Yes;GYE
+Guatemala;Guatemala;Latin America;Punto de Intercambio de Tráfico de Guatemala;18782;14.58000;-90.52000;Yes;GUA
+United States;Guam;North America;Guam Internet Exchange;0;13.47511;144.74844;No;
+Netherlands;Groningen;Europe;Groningen-IX;0;53.13000;6.58000;No;
+France;Grenoble;Europe;GrenoblIX;0;45.19000;5.72000;No;
+Austria;Graz;Europe;Grazer Internet Exchange;0;47.07030;15.43890;No;
+South Africa;Gqeberha;Africa;Nelson Mandela Bay Internet Exchange Point;153;-33.95084;25.57413;Yes;PLZ
+Sweden;Gothenburg;Europe;Netnod Gothenburg;0;57.67000;12.30000;No;
+Sweden;Gothenburg;Europe;Gothenburg Internet Exchange;0;57.67000;12.30000;No;
+Sweden;Gothenburg;Europe;STHIX - Gothenburg;NULL;57.67000;12.30000;No;
+Democratic Republic of Congo;Goma;Africa;Goma Internet Exchange;0;-1.65868;29.17309;No;
+Brazil;Goiânia;Latin America;Ponto de Troca de Trafego do Goiânia;0;-16.67000;-49.25000;No;
+Switzerland;Geneva;Europe;CERN IXP / Equinix Geneva;0;46.25000;6.13000;Yes;GVA
+Ireland;Galway;Europe;eXchange West;0;53.28000;-9.02000;No;
+Botswana;Gaborone;Africa;Botswana Internet Exchange;277;-24.67000;25.92000;Yes;GBE
+Sweden;Gävle;Europe;Gävle Internet Exchange;0;60.72000;17.17000;No;
+Japan;Fukuoka;Asia-Pacific;BBIX Fukuoka;0;33.58000;130.38000;No;
+Japan;Fukuoka;Asia-Pacific;JPNAP Fukuoka;NULL;33.58000;130.38000;No;
+Japan;Fukuoka;Asia-Pacific;JPIX Fukuoka;NULL;33.58000;130.38000;No;
+United Arab Emirates;Fujairah;Europe;SMARTHUB Internet Exchange;0;25.14363;56.29187;No;
+Netherlands;Fryslân;Europe;The Frisian Internet Exchange;NULL;53.16420;5.78180;No;
+United States;Fremont;North America;Fremont Cabal Internet Exchange;0;37.56283;-122.00044;No;
+United States;Fremont;North America;DACS-IX West;NULL;37.56283;-122.00044;Yes;SFO2
+United States;Fremont;North America;Amateur Radio Internet Exchange;NULL;37.56283;-122.00044;No;
+United States;Fremont;North America;Lambda Internet Exchange;NULL;37.56283;-122.00044;No;
+Germany;Frankfurt;Europe;Deutscher Commercial Internet Exchange DE-CIX Frankfurt;1982132;50.12000;8.68000;Yes;FRA
+Germany;Frankfurt;Europe;KleyReX Internet Exchange;0;50.12000;8.68000;No;
+Germany;Frankfurt;Europe;Megaport Frankfurt IX;588485;50.12000;8.68000;Yes;
+Germany;Frankfurt;Europe;OpenCarrier e.G. Member IX Frankfurt;0;50.12000;8.68000;No;
+Germany;Frankfurt;Europe;Equinix Frankfurt;0;50.12000;8.68000;No;
+Germany;Frankfurt;Europe;Local Internet Exchange Frankfurt;465201;50.12000;8.68000;Yes;FRA2
+Germany;Frankfurt;Europe;Staclar Internet Exchange;148203;50.12000;8.68000;Yes;FRA2
+Brazil;Foz do Iguaçu;Latin America;Ponto de Troca de Trafego do Foz do Iguaçu;0;-25.45296;-54.73734;No;
+Martinique;Fort-de-France;Latin America;Martinix;0;14.64886;-61.13883;No;
+Brazil;Fortaleza;Latin America;Ponto de Troca de Trafego do Fortaleza;0;-3.78000;-38.53000;No;
+Brazil;Florianópolis;Latin America;Ponto de Troca de Tráfego do Florianópolis;0;-27.58000;-48.57000;No;
+Italy;Florence;Europe;Tuscany Internet Exchange;0;43.80000;11.20000;No;
+United States;Eugene;North America;Willamette Internet Exchange;NULL;44.05000;-123.08000;No;
+Finland;Espoo;Europe;Finnish Communication and Internet Exchange Espoo;0;60.21000;24.66000;No;
+Liechtenstein;Eschen;Europe;Rheintal Internet Exchange;25755;47.20950;9.52200;Yes;ACH
+Netherlands;Enschede;Europe;Nederlands-Duitse Internet Exchange;0;52.22000;6.90000;No;
+Russia;Ekaterinburg;Europe;MSK-IX Ekaterinburg;0;56.80000;60.63000;No;
+Canada;Edmonton;North America;YEGIX Edmonton Internet Exchange;0;53.54440;-113.49090;No;
+United Kingdom;Edinburgh;Europe;LINX Scotland;512515;55.92000;-3.17000;Yes;EDI
+Turkey;Edime;Europe;TurkIX Internet Exchange;NULL;41.67710;26.55570;No;
+Mauritius;Ebene;Africa;Mauritius Internet Exchange;773;-20.24435;57.49175;Yes;MRU
+South Africa;Durban;Africa;Durban Internet eXchange;343804;-29.97000;30.95000;Yes;DUR
+South Africa;Durban;Africa;NAPAfrica Durban;378900;-29.97000;30.95000;Yes;DUR
+United States;Duluth;North America;Twin Ports Internet Exchange;0;46.78670;-92.10050;No;
+Ireland;Dublin;Europe;Internet Neutral Exchange Association CLG;413774;53.33000;-6.25000;Yes;DUB
+Ireland;Dublin;Europe;Equinix Dublin;0;53.33000;-6.25000;No;
+United Arab Emirates;Dubai;Europe;UAE-IX by DE-CIX;2438;25.25000;55.33000;Yes;DXB
+Netherlands;Dronten;Europe;Speed Internet Exchange;NULL;52.53124;5.58506;No;
+United Kingdom;Douglas;Europe;ManxIX;NULL;55.55730;-3.84720;No;
+Cameroon;Douala;Africa;Cameroon Internet Exchange Point - Douala;785;4.03590;9.67176;Yes;
+Cameroon;Douala;Africa;Douala Internet Exchange;NULL;4.03590;9.67176;No;
+Germany;Dortmund;Europe;Dortmund Internet exchange;2319;51.51610;7.46830;Yes;DTM
+Ukraine;Donetsk;Europe;Donetsk Internet Exchange;745;48.08000;37.75000;No;
+Qatar;Doha;Europe;Qatar Internet Exchange Point;0;25.25000;51.57000;Yes;DOH
+Tanzania;Dodoma;Africa;Dodoma Internet Exchange Point;596;-6.20600;35.79500;Yes;DOD
+Djibouti;Djibouti City;Africa;Djibouti Internet Exchange;269691;11.82510;42.59030;Yes;JIB
+Timor-Leste;Dili;Asia-Pacific;Timor-Leste Internet Exchange;0;-8.55690;125.56030;No;
+Bangladesh;Dhaka;Asia-Pacific;Bangladesh Internet Exchange;4640;23.77000;90.38000;Yes;DAC
+Bangladesh;Dhaka;Asia-Pacific;AIX-BD;NULL;23.77000;90.38000;No;
+Bangladesh;Dhaka;Asia-Pacific;Internet Service Providers Association of Bangladesh;10566;23.77000;90.38000;Yes;DAC2
+United States;Detroit;North America;DET-IX;240498;42.34453;-83.05988;Yes;DTW
+United States;Des Moines;North America;DesMoines Internet eXchange;NULL;41.60054;-93.60911;No;
+United States;Denver;North America;Coresite - Any 2;0;39.75000;-105.00000;No;
+United States;Denver;North America;Interconnection eXchange Denver;577947;39.75000;-105.00000;Yes;DEN
+United States;Denver;North America;Denver Internet Exchange;NULL;39.75000;-105.00000;No;
+Indonesia;Denpasar;Asia-Pacific;cloudXchange;NULL;-8.67251;115.15423;No;
+Indonesia;Denpasar;Asia-Pacific;Bali Internet eXchange;NULL;-8.67251;115.15423;No;
+Argentina;De La Costa;Latin America;CABASE IXP De la Costa;0;-34.60665;-58.37937;No;
+United States;Davenport;North America;Quad Cities Internet Exchange;505292;41.54119;-90.65902;Yes;DVN
+Australia;Darwin;Asia-Pacific;EdgeIX - Darwin;NULL;-12.42572;130.86327;No;
+Tanzania;Dar es Salaam;Africa;TIX Tanzania - Dar es Salaam;9245;-6.87000;39.20000;Yes;DAR
+United States;Dallas;North America;Equinix IBX Dallas;669992;32.77000;-96.77000;Yes;DFW
+United States;Dallas;North America;Digital Realty Dallas Internet Exchange;370892;32.77000;-96.77000;Yes;DFW
+United States;Dallas;North America;DE-CIX Dallas;416801;32.77000;-96.77000;Yes;DAL
+United States;Dallas;North America;Megaport Dallas;0;32.77000;-96.77000;No;
+United States;Dallas;North America;Dallas-IX;NULL;32.77000;-96.77000;No;
+Senegal;Dakar;Africa;Senegal IX;48;14.73000;-17.50000;Yes;DKR
+Germany;Düsseldorf;Europe;Megaport Düsseldorf IX;399757;51.28000;6.76000;Yes;
+Germany;Düsseldorf;Europe;OpenCarrier e.G. Member IX Düsseldorf;0;51.28000;6.76000;No;
+Germany;Düsseldorf;Europe;DE-CIX Düsseldorf;407664;51.28000;6.76000;Yes;
+Germany;Düsseldorf;Europe;Local Internet Exchange Düsseldorf;NULL;51.28000;6.76000;No;
+Germany;Düsseldorf;Europe;Securebit Internet Exchange - Germany;NULL;51.28000;6.76000;No;
+Viet Nam;Da Nang city;Asia-Pacific;Vietnam National Internet Exchange;0;16.06670;108.23330;No;
+Peru;Cusco;Latin America;Peru IX (PIT Peru sac) - Cusco;NULL;NULL;NULL;No;
+Brazil;Curitiba;Latin America;Ponto de Troca de Trafego do Curitiba;0;-25.52000;-49.17000;No;
+Brazil;Cuiabá;Latin America;Ponto de Troca de Tráfego do Cuiabá;0;-15.60140;-56.09790;No;
+Benin;Cotonou;Africa;Benin IX;133;6.36183;2.39768;Yes;COO
+Ireland;Cork;Europe;INEX Cork;0;51.85000;-8.48000;No;
+Denmark;Copenhagen;Europe;Danish Internet Exchange;0;55.67000;12.57000;No;
+Denmark;Copenhagen;Europe;Netnod Copenhagen;0;55.67000;12.57000;No;
+Denmark;Copenhagen;Europe;STHIX - Copenhagen;0;55.67000;12.57000;No;
+Argentina;Concepcion del Uruguay;Latin America;CABASE IXP Concepcion del Uruguay;NULL;-32.48450;-58.23210;No;
+Chile;Concepcion;Latin America;PITChile Concepcion;0;-36.83330;-73.05000;No;
+Guinea;Conakry;Africa;IXP-GUINEE;148;9.63454;-13.71942;Yes;CKY
+Sri Lanka;Colombo;Asia-Pacific;Sri Lanka Internet Exchange;493;6.90000;79.87000;Yes;CMB
+United States;Cleveland;North America;MidWest-IX - Cleveland;0;41.49307;-81.66832;No;
+France;Clermont-Ferrand;Europe;AuvernIX;0;45.78706;3.07771;No;
+Mexico;Ciudad de Mexico;Latin America;Mexico IXP;5093;19.45105;-99.12140;Yes;MEX
+New Zealand;Christchurch;Asia-Pacific;Christchurch Internet Exchange;3464;-43.48000;172.55000;No;
+New Zealand;Christchurch;Asia-Pacific;New Zealand Internet Exchange Christchurch;NULL;-43.48000;172.55000;No;
+Russia;Chita;Europe;DV-IX;NULL;52.05150;113.47120;No;
+Moldova;Chisinau;Europe;Moldova Internet Exchange;0;46.99985;28.78814;No;
+Peru;Chiclayo;Latin America;Peru IX (PIT Peru sac) - Chiclayo;NULL;-6.77130;-79.84520;No;
+United States;Chicago;North America;Equinix Chicago IBX;756952;41.85000;-87.65000;Yes;ORD
+United States;Chicago;North America;StarLight;0;41.85000;-87.65000;No;
+United States;Chicago;North America;CoreSite - Any2;0;41.85000;-87.65000;No;
+United States;Chicago;North America;Greater Chicago International Internet Exchange;0;41.85000;-87.65000;No;
+United States;Chicago;North America;AMS-IX Chicago;163426;41.85000;-87.65000;Yes;ORD
+United States;Chicago;North America;United IX Chicago;390735;41.85000;-87.65000;Yes;ORD
+United States;Chicago;North America;DE-CIX Chicago;NULL;41.85000;-87.65000;No;
+United States;Chicago;North America;DACS-IX Central;NULL;41.85000;-87.65000;No;
+Thailand;Chiang Mai;Asia-Pacific;BKNIX Chiang Mai;NULL;18.90629;98.66272;Yes;CNX
+United States;Cheyenne;North America;Big Horn Fiber;0;41.14000;-104.82020;No;
+India;Chennai;Asia-Pacific;National Internet Exchange of India - Chennai;33679;13.07000;80.20000;Yes;
+India;Chennai;Asia-Pacific;Extreme IX Chennai;0;13.07000;80.20000;No;
+India;Chennai;Asia-Pacific;REDIX Chennai;0;13.07000;80.20000;No;
+India;Chennai;Asia-Pacific;DE-CIX Chennai;0;13.07000;80.20000;No;
+United States;Charlotte;North America;Charlotte-IX;NULL;35.19428;-80.82665;No;
+Philippines;Cebu;Asia-Pacific;GetaFIX- Cebu;NULL;10.32000;123.75000;No;
+France;Cayenne;Europe;Guyanix;0;4.92240;-52.31350;No;
+Brazil;Caxias do Sul;Latin America;Ponto de Troca de Trafego do Caxias do Sul;0;-29.16670;-51.18330;No;
+Saint Lucia;Castries;Latin America;Saint Lucia IXP;35;14.02000;-61.00000;Yes;SLU
+Morocco;Casablanca;Africa;Casablanca Internet Exchange;68;33.57245;-7.65744;Yes;CMN
+United States;Carrollton;North America;CyrusOne;0;32.97560;-96.89000;No;
+United Kingdom;Cardiff;Europe;IXCardiff by LINX;0;51.48158;-3.17909;No;
+South Africa;Cape Town;Africa;Cape Town Internet Exchange;358159;-33.98000;18.60000;Yes;CPT
+South Africa;Cape Town;Africa;NAPAfrica Cape Town;426721;-33.98000;18.60000;Yes;SDB
+Australia;Canberra;Asia-Pacific;PIPE Networks Canberra;0;-35.30000;149.17999;No;
+Australia;Canberra;Asia-Pacific;IX Australia ACT;0;-35.30000;149.17999;No;
+Brazil;Campinas;Latin America;Ponto de Troca de Trafego do Campinas;0;-22.90000;-47.08000;No;
+Brazil;Campina Grande;Latin America;Ponto de Troca de Trafego do Campina Grande;0;-7.22000;-35.88000;No;
+Colombia;Cali;Latin America;PIT Colombia - Cali;NULL;3.39523;-76.59570;No;
+Canada;Calgary;North America;Calgary Internet Exchange;157347;51.05440;-114.06690;Yes;YYC
+Egypt;Cairo;Africa;Cairo Internet Exchange;2209;30.13000;31.40000;Yes;CAI
+Argentina;Córdoba;Latin America;CABASE IXP Córdoba;12696;-31.40360;-64.18580;Yes;COR
+Burundi;Bujumbura;Africa;Burundi Internet Exchange Point;166;-3.36138;29.35988;Yes;BJM
+United States;Buffalo;North America;Buffalo Niagara International Internet Exchange;0;42.88640;-78.87860;No;
+Argentina;Buenos Aires;Latin America;CABASE IXP Buenos Aires;17224;-34.57000;-58.42000;No;EZE
+Argentina;Buenos Aires;Latin America;CABASE IXP Oeste de Gran Buenos Aires;0;-34.57000;-58.42000;No;
+Argentina;Buenos Aires;Latin America;CABASE IXP Ruteo Central;53718;-34.57000;-58.42000;Yes;AEP
+Hungary;Budapest;Europe;Budapest Internet Exchange;0;47.43000;19.18000;No;
+Romania;Bucharest;Europe;Romanian National Internet Exchange;0;44.50000;26.13000;No;
+Romania;Bucharest;Europe;InterLAN-IX;552180;44.50000;26.13000;Yes;OTP
+Romania;Bucharest;Europe;Balcan-IX;0;44.50000;26.13000;No;
+Romania;Bucharest;Europe;Romania Internet eXchange Point;NULL;44.50000;26.13000;No;
+Romania;Bucharest;Europe;Romania Commercial Internet Exchange;NULL;44.50000;26.13000;No;
+Romania;Bucharest;Europe;Romanian Open Internet Exchange;NULL;44.50000;26.13000;No;
+Romania;Bucharest;Europe;DreamServer.ro;NULL;44.50000;26.13000;No;
+Belgium;Brussels;Europe;Belgian National Internet Exchange;0;50.90000;4.53000;No;
+Belgium;Brussels;Europe;Belgium Internet Exchange;0;50.90000;4.53000;No;
+Brunei Darussalam;Brunei;Asia-Pacific;Borneo Internet Exchange;NULL;4.53530;114.72770;No;
+Czech Republic;Brno;Europe;Brno Internet Exchange Point;0;49.15000;16.70000;No;
+Australia;Brisbane;Asia-Pacific;PIPE Networks Brisbane;0;-27.38000;153.10001;No;
+Australia;Brisbane;Asia-Pacific;IX Australia (Brisbane QLD);0;-27.38000;153.10001;No;
+Australia;Brisbane;Asia-Pacific;Megaport IX Brisbane;269736;-27.38000;153.10001;Yes;SYD
+Australia;Brisbane;Asia-Pacific;Connected IX - Australia;NULL;-27.38000;153.10001;No;
+United Kingdom;Brighton;Europe;IX Brighton;0;50.82250;-0.13720;No;
+Germany;Bremen;Europe;BREM-IX;0;53.07930;8.80170;No;
+Republic of Congo;Brazzaville;Africa;Congo Brazzaville IX;189;-4.26780;15.29190;Yes;BZV
+Slovakia;Bratislava;Europe;Slovak Internet eXchange Bratislava;0;48.20000;17.20000;No;
+Slovakia;Bratislava;Europe;NIX.SK - exSitelIX;0;48.20000;17.20000;No;
+Brazil;Brasília;Latin America;Ponto de Troca de Tráfego do Brasília;0;-15.78000;-47.93000;No;
+United Kingdom;Bradford;Europe;Bradford IX;NULL;53.79380;-1.75640;No;
+United States;Boston;North America;Equinix-Boston;0;42.37000;-71.03000;No;
+United States;Boston;North America;Massachusetts Internet Exchange;537867;42.37000;-71.03000;Yes;BVY
+United States;Boston;North America;Boston Internet Exchange;163951;42.37000;-71.03000;Yes;BOS
+United States;Boston;North America;Coresite - Any 2;0;42.37000;-71.03000;No;
+Italy;Bolzano;Europe;South Tyrol Internet Exchange;0;46.48929;11.31214;No;
+Colombia;Bogotá;Latin America;NAP Colombia;0;4.70000;-74.13000;No;
+Colombia;Bogota;Latin America;Equinix Bogota;0;4.70000;-74.13000;No;
+Colombia;Bogota;Latin America;PIT Colombia - Bogota;NULL;4.70000;-74.13000;Yes;BOG2
+Burkina Faso;Bobo-Dioulasso;Africa;BFIX Bobo-Dioulasso;93;11.17609;-4.33765;Yes;BOY
+Brazil;Blumenau;Latin America;FURB Internet Exchange;0;-26.85625;-49.23919;No;
+Malawi;Blantyre;Africa;Malawi IXP;445;-15.78333;35.00000;Yes;BLZ
+Kyrgyzstan;Bishkek;Asia-Pacific;KG-IX;0;42.87679;74.45178;No;
+Kyrgyzstan;Bishkek;Asia-Pacific;SR-IX;NULL;42.87679;74.45178;No;
+United States;Billings;North America;Yellowstone Regional Internet Exchange;0;45.77000;-108.48000;No;
+Germany;Berlin;Europe;Berlin Commercial Internet Exchange;699659;52.38000;13.52000;Yes;BER
+Germany;Berlin;Europe;Megaport Berlin IX;376309;52.38000;13.52000;Yes;FRA
+Germany;Berlin;Europe;Community-IX;0;52.38000;13.52000;No;
+Norway;Bergen;Europe;Bergen Internet Exchange;0;60.38000;5.34000;No;
+United States;Bend;North America;Central Oregon Internet eXchange;0;44.05640;-121.30810;No;
+Brazil;Belo Horizonte;Latin America;Ponto de Troca de Tráfego do Belo Horizonte;0;-19.63000;-43.97000;No;
+Belize;Belize City;Latin America;Belize Internet Exchange Point;86;17.51587;-88.20404;Yes;BZE
+Serbia;Belgrade;Europe;Serbian Open Exchange;573924;44.82958;20.46547;Yes;BEG
+Brazil;Belém;Latin America;Ponto de Troca de Trafego do Belém;0;-1.46670;-48.48330;No;
+Lebanon;Beirut;Europe;Beirut Internet Exchange;705;33.82000;35.48000;Yes;BEY
+Lebanon;Beirut;Europe;Advanced Internet Exchange;989;33.82000;35.48000;Yes;KYE
+China;Beijing;Asia-Pacific;Beijing National Internet Exchange Center;0;39.93000;116.28000;No;
+China;Beijing;Asia-Pacific;CHN IX;0;39.93000;116.28000;No;
+Indonesia;Batam;Asia-Pacific;Batam Internet Exchange - Batam;NULL;0.83784;103.77291;No;
+Saint Kitts and Nevis;Basseterre;Latin America;Saint Kitts and Nevis Internet Exchange;0;17.28000;-62.73000;Yes;SKB
+Colombia;Barranquilla;Latin America;PIT Colombia - Barranquilla;NULL;NULL;NULL;No;
+Russia;Barnaul;Europe;SFO-IX;NULL;53.34970;83.78360;No;
+Argentina;Bariloche;Latin America;CABASE IXP Bariloche;0;-41.13350;-71.31030;No;
+Spain;Barcelona;Europe;Catalunya Neutral Internet Exchange Point;180285;41.28000;2.07000;Yes;BCN
+Spain;Barcelona;Europe;Equinix Barcelona;0;41.28000;2.07000;No;
+Spain;Barcelona;Europe;DE-CIX Barcelona;377967;41.28000;2.07000;Yes;
+Trinidad and Tobago;Barataria;Latin America;Trinidad and Tobago Internet Exchange;175;10.64688;-61.46287;Yes;POS
+Thailand;Bangkok;Asia-Pacific;Thailand IX;0;13.92000;100.60000;No;
+Thailand;Bangkok;Asia-Pacific;True International Gateway NIX;0;13.92000;100.60000;No;
+Thailand;Bangkok;Asia-Pacific;JASTEL IX;0;13.92000;100.60000;No;
+Thailand;Bangkok;Asia-Pacific;Symphony IX;0;13.92000;100.60000;No;
+Thailand;Bangkok;Asia-Pacific;Bangkok Neutral Internet Exchange;380054;13.92000;100.60000;Yes;BKK
+Thailand;Bangkok;Asia-Pacific;Thai-IX Bangkok by CS Loxinfo;NULL;13.92000;100.60000;No;
+Thailand;Bangkok;Asia-Pacific;BBIX-Thailand;NULL;13.92000;100.60000;No;
+India;Bangalore;Asia-Pacific;National Internet Exchange of India - Bangalore;0;12.95000;77.65000;No;
+India;Bangalore;Asia-Pacific;Extreme IX Bangalore;NULL;12.95000;77.65000;Yes;BLR
+Indonesia;Bandung;Asia-Pacific;IIX-Jabar;NULL;-6.90344;107.57312;No;
+Brunei Darussalam;Bandar Seri Begawan;Asia-Pacific;Borneo-IX;861;4.54991;114.15909;Yes;BWN
+Indonesia;Bandar Lampung;Asia-Pacific;IIX-Lampung;NULL;-5.44790;105.26530;No;
+Mali;Bamako;Africa;Mali IXP;67;12.61255;-8.13560;Yes;BKO
+Liechtenstein;Balzers;Europe;Virtual Internet Exchange Point;NULL;47.06975;9.50809;No;
+United States;Baltimore;North America;The Baltimore Internet Exchange;1;39.30000;-76.62000;Yes;BWI
+United States;Baltimore;North America;DACS-IX East;149627;39.30000;-76.62000;Yes;BWI2
+Argentina;Bahía Blanca;Latin America;CABASE IXP Bahía Blanca;0;-38.71440;-62.26740;No;
+Iraq;Baghdad;Europe;IRAQ-IXP;NULL;33.15450;44.14040;No;BGW
+New Zealand;Auckland;Asia-Pacific;Auckland Peering Exchange;150075;-37.02000;174.80000;Yes;AKL
+New Zealand;Auckland;Asia-Pacific;MegaPort-IX Auckland;413394;-37.02000;174.80000;Yes;SYD
+New Zealand;Auckland;Asia-Pacific;Auckland Internet Exchange;286153;-37.02000;174.80000;Yes;AKL2
+United States;Atlanta;North America;Equinix Atlanta;0;33.86000;-84.40000;No;
+United States;Atlanta;North America;South East Network Access Point;0;33.86000;-84.40000;No;
+United States;Atlanta;North America;Digital Realty Atlanta Internet Exchange;304944;33.86000;-84.40000;Yes;ATL
+United States;Atlanta;North America;Community IX - Atlanta;NULL;33.86000;-84.40000;No;
+Greece;Athens;Europe;GR-IX Athens;397744;37.90000;23.70000;Yes;ATH
+Greece;Athens;Europe;The South East Europe Cloud & Interconnection Exchange;NULL;37.90000;23.70000;No;
+Paraguay;Asuncion;Latin America;Punto de Intercambio de Tráfico de Paraguay;3172;-25.24000;-57.52000;Yes;ASU
+Kazakhstan;Astana;Europe;Kazakhstan Internet Exchange;NULL;51.14761;71.19920;No;
+United States;Ashburn;North America;Equinix IBX Ashburn;1467460;39.02000;-77.46000;Yes;IAD
+United States;Ashburn;North America;Megaport IX Ashburn;0;39.02000;-77.46000;No;
+United States;Ashburn;North America;Gig IX Ashburn;NULL;39.02000;-77.46000;No;
+Tanzania;Arusha;Africa;TIX Tanzania - Arusha;4183;-3.33000;36.62000;Yes;ARK
+Peru;Arequipa;Latin America;Peru IX (PIT Peru sac) - Arequipa;NULL;-16.40900;-71.53750;No;
+Brazil;Aracaju;Latin America;Ponto de Troca de Trafego do Aracaju;0;-10.94406;-37.07077;No;
+Jordan;Aqaba;Europe;Aqaba IX;3325;29.53216;35.00640;Yes;AQJ
+Netherlands;Amsterdam;Europe;Amsterdam Internet Exchange;1516662;52.30000;4.77000;Yes;AMS
+Netherlands;Amsterdam;Europe;Neutral Internet Exchange;534012;52.30000;4.77000;Yes;AMS
+Netherlands;Amsterdam;Europe;Asteroid Amsterdam IXP;0;52.30000;4.77000;No;
+Netherlands;Amsterdam;Europe;Equinix Amsterdam;0;52.30000;4.77000;No;
+Netherlands;Amsterdam;Europe;Neutral Internet Exchange 2;NULL;52.30000;4.77000;No;
+Netherlands;Amsterdam;Europe;Hamro Internet Exchange - Amsterdam;NULL;52.30000;4.77000;No;
+Netherlands;Amsterdam;Europe;ERA-IX Amsterdam;NULL;52.30000;4.77000;No;
+India;Amaravati;Asia-Pacific;Amaravati Internet Exchange;0;16.57197;80.34896;No;
+United States;Albuquerque;North America;New Mexico Internet Exchange;0;35.08000;-106.65000;No;
+United States;Albuquerque;North America;Albuquerque IXP;NULL;35.08000;-106.65000;No;
+India;Ahmedabad;Asia-Pacific;National Internet Exchange of India - Ahmedabad;0;23.07000;72.63000;No;
+Australia;Adelaide;Asia-Pacific;PIPE Networks Adelaide;0;-34.93000;138.52000;No;
+Australia;Adelaide;Asia-Pacific;IX Australia (Adelaide SA);0;-34.93000;138.52000;No;
+Australia;Adelaide;Asia-Pacific;EdgeIX - Adelaide;NULL;-34.93000;138.52000;No;
+Ghana;Accra;Africa;Ghana Internet Exchange;9585;5.60000;-0.17000;Yes;ACC
+Ghana;Accra;Africa;Accra Internet Exchange;NULL;5.60000;-0.17000;No;
+Nigeria;Abuja;Africa;Internet Exchange Point of Nigeria - Abuja;0;9.25000;7.00000;No;
+Cote D'Ivoire;Abidjan;Africa;Côte d'Ivoire Internet Exchange Point;1070;5.25000;-3.93000;Yes;ABJ
