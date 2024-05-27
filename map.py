@@ -69,6 +69,17 @@ def get_color(liste_couleurs_icones,distance):
             return liste_couleurs_icones[i][1],liste_couleurs_icones[i][2]
     return liste_couleurs_icones[-1][1],liste_couleurs_icones[-1][2]
 
+def get_ip_nb_from_iata(iata):
+    """
+    retourne le nombre d'IP accessibles depuis l'IATA depuis le fichier json percent_ip_by_iata.json
+    """
+    with open("percent_ip_by_iata.json", "r") as f:
+        data = json.load(f)
+        try:
+            return data[iata]
+        except:
+            return 0
+
 def placer_marqueurs(map, ixps, city=None, distance=1000, pays=[], couleurs=[0,'red','cloud']):
     """
     Ajoute un marqueur pour chaque IXP dans la carte map s'il se situe à moins de distance km de la ville city (si city est renseignée, sinon tous les IXP sont ajoutés)
@@ -88,6 +99,7 @@ def placer_marqueurs(map, ixps, city=None, distance=1000, pays=[], couleurs=[0,'
             icon=folium.Icon(color='pink', icon='home', prefix='fa')
         ).add_to(map)
     for ixp in ixps:
+        qte_adresses = get_ip_nb_from_iata(ixp.iata)
         try :
             if city is not None and len(pays)!=0:
                 if city is not None:
@@ -102,17 +114,31 @@ def placer_marqueurs(map, ixps, city=None, distance=1000, pays=[], couleurs=[0,'
                         nb_large+=1
                     # liste de tous les icones possibles sur folium : https://fontawesome.com/v4.7.0/icons/
                     if city is not None:
-                        folium.Marker(
-                            [ixp.lat, ixp.lon], 
-                            popup=f"{ixp.city} ({ixp.pays}-{int(distance_a_ville)}km)",
-                            icon=folium.Icon(color=color,icon=icon, prefix='fa')
-                        ).add_to(map)
+                        if qte_adresses>0:
+                            folium.Marker(
+                                [ixp.lat, ixp.lon], 
+                                popup=f"{ixp.city} ({ixp.pays}-{int(distance_a_ville)}km)\nIATA:{ixp.iata if ixp.iata is not None else 'None'}\n{round(qte_adresses,3)}% des IPs accessibles",
+                                icon=folium.Icon(color=color,icon=icon, prefix='fa')
+                            ).add_to(map)
+                        else :
+                            folium.Marker(
+                                [ixp.lat, ixp.lon], 
+                                popup=f"{ixp.city} ({ixp.pays}-{int(distance_a_ville)}km)\nIATA:{ixp.iata if ixp.iata is not None else 'None'}",
+                                icon=folium.Icon(color=color,icon=icon, prefix='fa')
+                            ).add_to(map)
                     else:
-                        folium.Marker(
-                            [ixp.lat, ixp.lon], 
-                            popup=f"{ixp.city}({ixp.pays})",
-                            icon=folium.Icon(color=color,icon=icon, prefix='fa')
-                        ).add_to(map)  
+                        if qte_adresses>0:
+                            folium.Marker(
+                                [ixp.lat, ixp.lon], 
+                                popup=f"{ixp.city} ({ixp.pays})\nIATA:{ixp.iata if ixp.iata is not None else 'None'}\n{round(qte_adresses,3)}% des IPs accessibles",
+                                icon=folium.Icon(color=color,icon=icon, prefix='fa')
+                            ).add_to(map)
+                        else :
+                            folium.Marker(
+                                [ixp.lat, ixp.lon], 
+                                popup=f"{ixp.city} ({ixp.pays})\nIATA:{ixp.iata if ixp.iata is not None else 'None'}",
+                                icon=folium.Icon(color=color,icon=icon, prefix='fa')
+                            ).add_to(map)
                     ixp_ok.append(ixp)
                     ok += 1
                 else:
@@ -125,11 +151,18 @@ def placer_marqueurs(map, ixps, city=None, distance=1000, pays=[], couleurs=[0,'
                     nb_moyen+=1
                 else:
                     nb_large+=1
-                folium.Marker(
-                    [ixp.lat, ixp.lon], 
-                    popup=f"{ixp.city} ({ixp.pays})",
-                    icon=folium.Icon(color=color, icon=icon, prefix='fa')
-                ).add_to(map)
+                if qte_adresses>0:
+                    folium.Marker(
+                        [ixp.lat, ixp.lon], 
+                        popup=f"{ixp.city} ({ixp.pays})\nIATA:{ixp.iata if ixp.iata is not None else 'None'}\n{round(qte_adresses,3)}% des IPs accessibles",
+                        icon=folium.Icon(color=color, icon=icon, prefix='fa')
+                    ).add_to(map)
+                else :
+                    folium.Marker(
+                        [ixp.lat, ixp.lon], 
+                        popup=f"{ixp.city} ({ixp.pays})\nIATA:{ixp.iata if ixp.iata is not None else 'None'}",
+                        icon=folium.Icon(color=color, icon=icon, prefix='fa')
+                    ).add_to(map)
                 ok += 1
         except:
             paok += 1
