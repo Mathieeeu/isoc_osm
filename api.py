@@ -1,4 +1,4 @@
-from map import generer_map
+from map import generer_map,get_ip_nb_from_iata
 from flask import Flask
 
 app = Flask(__name__)
@@ -47,12 +47,13 @@ def get_result(operation_id: str, city: str, distance: int):
             lon = str(ixp.lon)
             pays = ixp.pays
             iata = ixp.iata
-            dict_ixps[str(i)] = {"id":id,"city":city,"lat":lat,"lon":lon,"pays":pays,"iata":iata}
+            qte_adresses = get_ip_nb_from_iata(iata)
+            dict_ixps[str(i)] = {"id":id,"city":city,"lat":lat,"lon":lon,"pays":pays,"iata":iata,"%ip_accessibles":qte_adresses/100}
             i+=1
         return {"ixps":dict_ixps}
 
     else : 
         return {"message":"Erreur"}
-
+    
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8000, debug=True)
