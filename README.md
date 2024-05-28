@@ -25,4 +25,5 @@ Une fois les informations saisies, une nouvelle fenêtre, contenant les résulta
 
 ## Installation
 
-
+pour le l'installation il faut telecharger les fichier présent sur le git et ouvrir le fichier FentreISOC afin de lancée l'apllication 
+en se qui conserne l'API il faut 
