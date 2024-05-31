@@ -1,0 +1,7 @@
+###### Requirements ######
+flask
+tkinter
+webbrowser
+folium
+customtkinter
+osmnx
